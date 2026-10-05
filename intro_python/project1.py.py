@@ -1,0 +1,7 @@
+print("sara dana ")
+print("majer :","cybersecurity")
+print("sara dana ")
+print(5+2)
+print("palestine has good people but the israel country kill people in palestine ")
+print(" i love sara \n sara is a good girle")
+print("hellow ","sara")
