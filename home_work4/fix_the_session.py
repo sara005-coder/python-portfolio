@@ -9,7 +9,7 @@
 #rint("Session: " + minutes + " min " + str(seconds) + " s")
 #print("=" * 30)
 username = input("enter the name of user :  ")
-total_secound =int  (input("session length in secound : "))
+total_secound =int(input("session length in secound : "))
 minute=total_secound//60
 secound=total_secound % 60
 print("="*30)

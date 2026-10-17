@@ -7,6 +7,9 @@ attempt_left=MAX_LOGIN_ATTEMPTAS-number_of_failed
 print("="*30)
 print("LOGIN REPORT")
 print("="*30)
-line1=f" user:\t{usrename} "
-lin2=f"failed : {number_of_failed}"
+line1=f" user:\t{username} "
+line2=f"failed : {number_of_failed}"
 line3=f"attempt left : {attempt_left}"
+print(line1)
+print(line2)
+print(line3)
