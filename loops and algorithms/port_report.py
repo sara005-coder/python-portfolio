@@ -1,4 +1,4 @@
-# check port between start and end port 
+#  port_repote.py check port between start and end port 
 start_port=int(input("start port: "))
 end_port=int(input("end port: "))
 port_checked=0

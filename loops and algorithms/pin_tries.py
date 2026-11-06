@@ -1,4 +1,4 @@
-#check pin tries 
+# pin_tries.py check pin tries  as long as tries less thsn MAX TRIES run the code  increase one to tries in all input 
 MAX_TRIES=3
 CORRECT_PIN="2580"
 tries=0

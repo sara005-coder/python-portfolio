@@ -1,3 +1,4 @@
+#fix_the_stats.py the code in class room already fixed?
 # fix the mistake in the code 
 
 # fix_the_stats.py (fixed)
