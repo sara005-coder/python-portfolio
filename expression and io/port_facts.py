@@ -4,8 +4,8 @@
 PORT__BITS=16
 ADDRESS_BIT=32
 number_of_possible_port_number=2**16
-highest_port_number=(2**16-1)
-number_of_possible_ipv4=2**32
+highest_port_number=(2**PORT__BITS-1)
+number_of_possible_ipv4=2**ADDRESS_BIT
 print(f"number of possible port {number_of_possible_port_number}")
 print(f"highest port number {highest_port_number}")
 print(f"number of possible ipv4 {number_of_possible_ipv4}")
