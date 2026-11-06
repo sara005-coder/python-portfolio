@@ -1,4 +1,4 @@
-# check port 
+# check port between start and end port 
 start_port=int(input("start port: "))
 end_port=int(input("end port: "))
 port_checked=0
@@ -10,6 +10,6 @@ for port in range(start_port,end_port+1):
     else : 
         print(f"{port}: dynamic")
         port_checked+=1
-print(f"ports checked{port_checked}")# use the IANA ranges 
+print(f"ports checked {port_checked}")# use the IANA ranges 
     
 
